@@ -1,0 +1,13 @@
+{
+    "name": "sistema-votacion-pro",
+    "description": "Sistema de Votación Profesional",
+    "type": "project",
+    "require": {
+        "php": "^7.4|^8.0",
+        "ext-pdo": "*",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+} 
