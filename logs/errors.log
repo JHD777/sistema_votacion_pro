@@ -1,0 +1,88 @@
+[2025-05-17 23:09:37] ERROR: Usuario registrado con éxito: aaa@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-17 23:18:43] ERROR: Usuario registrado con éxito: bbb@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-18 00:08:50] ERROR: Usuario registrado con éxito: ccc@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-18 00:22:29] ERROR: Usuario registrado con éxito: ddd@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-18 00:31:15] ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11111111' for key 'usuarios.documento_identidad'
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 105
+Contexto: Array
+(
+    [nombre] => wefwf
+    [apellido] => erferge
+    [email] => fff@gmail.com
+    [documento] => 11111111
+)
+
+------------------------------
+[2025-05-18 00:31:40] ERROR: Usuario registrado con éxito: fff@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-18 22:42:10] ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '11111111' for key 'usuarios.documento_identidad'
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 105
+Contexto: Array
+(
+    [nombre] => rrrrrrrrr
+    [apellido] => rrrrrrrrrrrrr
+    [email] => rrr@gmail.com
+    [documento] => 11111111
+)
+
+------------------------------
+[2025-05-18 22:43:17] ERROR: Usuario registrado con éxito: rrr@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-20 11:50:15] ERROR: Usuario registrado con éxito: jjj@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-21 03:36:38] ERROR: Usuario registrado con éxito: hhh@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-21 10:51:35] ERROR: Usuario registrado con éxito: moises@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-21 11:36:36] ERROR: Usuario registrado con éxito: jesenia@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-21 12:07:36] ERROR: Usuario registrado con éxito: moira@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-22 09:16:19] ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '66666666' for key 'usuarios.documento_identidad'
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 105
+Contexto: Array
+(
+    [nombre] => mireya
+    [apellido] => mamani
+    [email] => mireya@gmail.com
+    [documento] => 66666666
+)
+
+------------------------------
+[2025-05-22 09:16:44] ERROR: Usuario registrado con éxito: mireya@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------
+[2025-05-31 19:25:33] ERROR: Usuario registrado con éxito: favio@gmail.com
+Archivo: C:\laragon\www\sistema_votacion_pro\views\auth\register.php
+Línea: 95
+------------------------------

@@ -1,0 +1,21 @@
+# Archivos de configuración
+config/dbconfig.php
+
+# Logs
+logs/*
+debug_logs/*
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Directorios de uploads
+uploads/*
+
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db 
